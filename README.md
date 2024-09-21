@@ -45,5 +45,5 @@ This project aims to utilize artificial intelligence and data analytics tools (P
 Thank you for reading! Feel free to connect with me for further discussions.
 
 # Acknowledgments
-- [Author](mailto:daudaagbonoga@gmail.com)
+- Author: [Dauda Agbonoga](mailto:daudaagbonoga@gmail.com)
 - Youtube API
