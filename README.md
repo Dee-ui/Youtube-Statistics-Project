@@ -7,7 +7,7 @@ A movie production company just completed a movie set and want to upload the mov
 - What video length tends to have the most engagement on youtube?
 - What are the trending video title keywords and hashtags?
 - Based on view count and recent post time, what videos tend to do well?
-- 
+
 This project aims to utilize artificial intelligence and data analytics tools (Python, Power BI) to throw more illumination into the the video trends of youtube and how to make decisions in the nearest future for the movie company.
 
 ## Methodology
@@ -29,7 +29,7 @@ This project aims to utilize artificial intelligence and data analytics tools (P
 
 
 ## Conclusion
-- Majority of popular videos in Nigeria and between 3 hours and below
+- Majority of popular videos in Nigeria and between 3 hours and below.
 - About 71% of them are below 10mins long.
 - The major keywords/tags in order of engagement are as follows;
     - Cluster 4: funny, short, viral, shortvideo, comedy, episode, family, shorts, live
